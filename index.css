@@ -1,0 +1,21 @@
+body {background: mintcream;
+	color: black;
+	font-size: 14pt
+
+	font-family: timesnewroman
+	}
+
+
+
+
+
+nav li {display: inline-block;
+		border: 2px solid navy;
+		background: aliceblue;
+		}	
+		
+
+
+a { color: blue;
+	text-decoration: none}
+a:hover {color:red}
